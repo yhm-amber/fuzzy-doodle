@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Title>单行本修正、预告页、动画化消息</Title>
+  <Series>关于地球的运动</Series>
+  <Summary>站点：包子漫画 (baozimh)
+
+关于地球的运动-鱼豊</Summary>
+  <Writer>鱼豊</Writer>
+  <Genre>日本, 其它</Genre>
+  <Web>http://www.vomicmh.com/#/page/f3074b36e1fb5e8d9c6d466500d2e85c/c75606f0a992536abe4077043e672724</Web>
+  <ty:PublishingStatusTachiyomi xmlns:ty="http://www.w3.org/2001/XMLSchema">Ongoing</ty:PublishingStatusTachiyomi>
+</ComicInfo>
