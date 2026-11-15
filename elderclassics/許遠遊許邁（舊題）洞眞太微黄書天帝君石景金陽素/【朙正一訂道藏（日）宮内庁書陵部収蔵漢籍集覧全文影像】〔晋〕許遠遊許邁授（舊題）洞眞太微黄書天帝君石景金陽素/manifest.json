@@ -1,0 +1,439 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "[道藏經][1452種,續56]種 存1278種,續2種",
+  "metadata": [
+    {
+      "label": "撰者等",
+      "value": "明闕名奉勑編"
+    },
+    {
+      "label": "刊写等",
+      "value": "明正統10年刊([内府])"
+    },
+    {
+      "label": "員数等",
+      "value": "唐 特大 4139帖"
+    },
+    {
+      "label": "冊次",
+      "value": "第131帖"
+    },
+    {
+      "label": "所蔵機関",
+      "value": "宮内庁書陵部図書寮文庫"
+    },
+    {
+      "label": "函架番号",
+      "value": "460.1"
+    },
+    {
+      "label": "分類",
+      "value": "子部道家類"
+    },
+    {
+      "label": "題目音",
+      "value": "Dao zang jing"
+    },
+    {
+      "label": "書誌ID",
+      "value": "A007074"
+    },
+    {
+      "label": "書誌詳細",
+      "value": "https://db2.sido.keio.ac.jp/kanseki/bib_detail?bibid=007074"
+    }
+  ],
+  "description": "",
+  "attribution": [
+    "画像データの使用権は宮内庁書陵部に帰属します。書誌データは宮内庁書陵部蔵漢籍研究会により作成されました。",
+    "The right to use the images belongs to the Archives and Mausolea Department, The Imperial Household Agency, Japan. Bibliographic data were compiled by the Research Group on Chinese Classics held in the Japanese Imperial Library."
+  ],
+  "license": "https://db2.sido.keio.ac.jp/kanseki/rights",
+  "viewingDirection": "right-to-left",
+  "within": "https://db2.sido.keio.ac.jp/kanseki/",
+  "sequences": [
+    {
+      "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page1",
+          "@type": "sc:Canvas",
+          "label": "p. 1",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page1",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0001.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0001.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page2",
+          "@type": "sc:Canvas",
+          "label": "p. 2",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page2",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0002.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0002.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page3",
+          "@type": "sc:Canvas",
+          "label": "p. 3",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page3",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0003.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0003.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page4",
+          "@type": "sc:Canvas",
+          "label": "p. 4",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page4",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0004.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0004.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page5",
+          "@type": "sc:Canvas",
+          "label": "p. 5",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page5",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0005.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0005.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page6",
+          "@type": "sc:Canvas",
+          "label": "p. 6",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page6",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0006.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0006.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page7",
+          "@type": "sc:Canvas",
+          "label": "p. 7",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page7",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0007.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0007.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page8",
+          "@type": "sc:Canvas",
+          "label": "p. 8",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page8",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0008.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0008.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page9",
+          "@type": "sc:Canvas",
+          "label": "p. 9",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page9",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0009.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0009.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page10",
+          "@type": "sc:Canvas",
+          "label": "p. 10",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page10",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0010.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0010.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page11",
+          "@type": "sc:Canvas",
+          "label": "p. 11",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page11",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0011.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0011.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page12",
+          "@type": "sc:Canvas",
+          "label": "p. 12",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page12",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0012.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0012.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page13",
+          "@type": "sc:Canvas",
+          "label": "p. 13",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page13",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0013.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0013.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page14",
+          "@type": "sc:Canvas",
+          "label": "p. 14",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page14",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0014.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0014.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page15",
+          "@type": "sc:Canvas",
+          "label": "p. 15",
+          "height": 4664,
+          "width": 6600,
+          "images": [
+            {
+              "@id": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/annotation/ano15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://db2.sido.keio.ac.jp/iiif/manifests/kanseki/007074/007074-0121/canvas/page15",
+              "resource": {
+                "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0015.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://db2.sido.keio.ac.jp/iipsrv/kanseki/007074/007074-0121/tif/007074-0121-0015.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
